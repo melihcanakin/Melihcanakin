@@ -44,10 +44,9 @@ Kullandığımız araçlar bir amaçtır, hedef değil. Felsefemiz; temiz, sürd
 <p align="left">
   İşletmenizin teknolojik zorluklarını ve hedeflerini görüşmek üzere benimle iletişime geçebilirsiniz.
   <br><br>
-  <a href="https://www.linkedin.com/in/melihcanakin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://www.smartyazilim.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Smart%20Yazılım-Kurumsal%20Site-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTUuNS04SDEwdi0xLjVIMy41di0xaDEzdi0xSDEwVjhoMS41VjYuNUg4LjVWOGg1LjVWMTAuNUgxMFYxMkg4LjVWMTMuNUgxMFYxMnpNMTEuNSAxNy41bDEuNS0xLjVWMTNIMTFWMTQuNUgxMy41VjE2TDE1IDE3LjVoLTEuNVYxNkgxMy41VjE3LjVIMTEuNXoiLz48L3N2Zz4=" alt="Kurumsal Web Sitesi"/>
+    <img src="https://img.shields.io/badge/Smart%20Yazılım-Kurumsal%20Site-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy51OSA4IDgtMy41OSA4LTggOHptLTUuNS04SDEwdi0xLjVIMy41di0xaDEzdi0xSDEwVjhoMS41VjYuNUg4LjVWOGg1LjVWMTAuNUgxMFYxMkg4LjVWMTMuNUgxMFYxMnpNMTEuNSAxNy41bDEuNS0xLjVWMTNIMTFWMTQuNUgxMy41VjE2TDE1IDE3LjVoLTEuNVYxNkgxMy41VjE3LjVIMTEuNXoiLz48L3N2Zz4=" alt="Kurumsal Web Sitesi"/>
   </a>
+</a href="mailto:info@smartyazilim.com.tr">
+    </a>
 </p>
